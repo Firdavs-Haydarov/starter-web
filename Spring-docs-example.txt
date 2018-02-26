@@ -6,3 +6,6 @@ spring:
         url: jdbc:mysql://localhost/test
 server:
     port: 9000
+
+
+Some other settings
