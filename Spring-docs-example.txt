@@ -9,3 +9,4 @@ server:
 
 
 Some other settings
+Setting line 2
